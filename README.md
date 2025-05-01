@@ -1,45 +1,46 @@
-# Letr
-## Your story, sharpened by AI.
+# 🤖 NetReach.AI — Cold Outreach Assistant
 
-
-**Make your mark with a better letter.**
-
-Letr is an AI-powered tool that helps you craft authentic, stand-out cover letters in seconds. Simply paste your resume details, target job information, and personal notes. Letr’s intelligent engine will generate a tailored draft you can refine and download—all while preserving your unique voice.
+**NetReach.AI** is an AI-powered web tool designed to help students and job seekers write **personalized, non-generic cold emails** for networking, referrals, resume feedback, and coffee chats. Instead of using rigid templates or robotic AI replies, NetReach focuses on authenticity by guiding users through structured input and leveraging GPT models to generate warm, human-sounding outreach messages.
 
 ---
 
-## Features
-1. **AI Cover Letter Generation**  
-   - Tailored to specific job descriptions
-   - Adjust tone and style (e.g., professional, friendly, analytical)
-2. **In-App Editing**  
-   - Instantly edit, refine, and finalize your cover letter
-3. **Easy Export**  
-   - Download or copy to your clipboard
-4. **Fast & Simple**  
-   - Generate a draft cover letter in seconds
+## ✨ What It Does
+
+- 🧠 Automatically summarizes your resume (PDF upload)
+- 🧑‍💼 Generates personalized outreach messages based on:
+  - your background
+  - your goal (e.g. ask for a referral)
+  - tone (Friendly, Curious, or Professional)
+- ⚙️ Built-in editing + regeneration for flexibility
+- 🔍 Plans to support LinkedIn bio parsing and smart suggestions
 
 ---
 
-## How It Works
-1. **Paste Inputs**  
-   - Provide your resume details, the job title/description, and any personal notes
-2. **AI Generation**  
-   - Letr’s backend calls an LLM (OpenAI/Claude) to produce a custom cover letter
-3. **Refine & Export**  
-   - Edit the generated text, then download in PDF or DOCX, or copy to your clipboard
+## 🧱 Tech Stack
+
+- **Frontend & App Logic**: [Streamlit](https://streamlit.io/)
+- **LLM Backend**: [OpenAI GPT-3.5 / GPT-4o](https://platform.openai.com/docs)
+- **Resume Parsing**: PyMuPDF (`fitz`)
+- **Prompt Engineering**: Custom structured prompts based on user input  
+- **Deployment**: Streamlit Cloud, and Vercel via React in the future 
 
 ---
 
-## Demo
-- Coming soon: a live URL link where you can try Letr
+## 🎯 Why It Matters
+
+Too many cold emails sound robotic or lack personality — especially when generated with AI. NetReach bridges the gap between **automation** and **authenticity**, helping users stand out with emails that are:
+- Context-aware
+- Concise and relevant
+- Custom-fit to the recipient and outreach goal
 
 ---
 
-## Tech Stack
-- **Frontend**: Streamlit or Flask + HTML/CSS
-- **Backend**: Python (Flask/FastAPI) for generating prompts & calling the LLM
-- **AI Model**: OpenAI GPT or Anthropic Claude
-- **Deployment**: Streamlit Cloud, Render, or Vercel
+## 👨‍💻 Created by
+
+**Max Zhang**  
+B.S. Information Science + Data Science @ UIUC  
+Focus: AI tools for career workflows, resume optimization, and professional networking
 
 ---
+
+*This project is ongoing and actively being built — feedback,ideas and even interests in becoming part of it, are welcomed!*
