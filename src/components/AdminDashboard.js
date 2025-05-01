@@ -36,7 +36,6 @@ const AdminDashboard = () => {
     setLoading(false);
   }, [token]);
 
-  // Load subscriber data if authenticated
   useEffect(() => {
     if (token) {
       setIsAuthenticated(true);
