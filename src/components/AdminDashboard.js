@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import '../styles/AdminDashboard.css';
 
 const AdminDashboard = () => {
@@ -8,20 +8,9 @@ const AdminDashboard = () => {
   const [password, setPassword] = useState('');
   const [token, setToken] = useState(localStorage.getItem('authToken'));
   const [subscriberData, setSubscriberData] = useState(null);
-  const [message, setMessage] = useState('');
   const [error, setError] = useState('');
 
-  // Load subscriber data if authenticated
-  useEffect(() => {
-    if (token) {
-      setIsAuthenticated(true);
-      fetchSubscriberData();
-    } else {
-      setLoading(false);
-    }
-  }, [token]);
-
-  const fetchSubscriberData = async () => {
+  const fetchSubscriberData = useCallback(async () => {
     setLoading(true);
     try {
       const response = await fetch('/api/subscribers', {
@@ -45,7 +34,17 @@ const AdminDashboard = () => {
       setError('Error fetching data. Please try again.');
     }
     setLoading(false);
-  };
+  }, [token]);
+
+  // Load subscriber data if authenticated
+  useEffect(() => {
+    if (token) {
+      setIsAuthenticated(true);
+      fetchSubscriberData();
+    } else {
+      setLoading(false);
+    }
+  }, [token, fetchSubscriberData]);
 
   const handleLogin = async (e) => {
     e.preventDefault();
