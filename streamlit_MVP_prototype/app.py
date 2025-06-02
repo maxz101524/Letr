@@ -13,17 +13,29 @@ api_key = None
 
 # First, try Streamlit secrets (for Streamlit Cloud deployment)
 try:
-    if hasattr(st, 'secrets') and 'OPENAI_API_KEY' in st.secrets:
-        api_key = st.secrets["OPENAI_API_KEY"]
-except:
-    pass
+    api_key = st.secrets.get("OPENAI_API_KEY")
+    if api_key:
+        st.success("✅ API key loaded from Streamlit secrets")
+except Exception as e:
+    st.warning(f"Could not load from Streamlit secrets: {str(e)}")
 
 # If not found in secrets, try environment variables (for local development)
 if not api_key:
     api_key = os.getenv("OPENAI_API_KEY")
+    if api_key:
+        st.success("✅ API key loaded from environment variables")
 
 if not api_key:
-    st.error("⚠️ OpenAI API key not found! Please set your OPENAI_API_KEY in Streamlit secrets (for cloud deployment) or in your .env file (for local development).")
+    st.error("⚠️ OpenAI API key not found! Please check your configuration:")
+    st.markdown("""
+    **For Streamlit Cloud:**
+    1. Go to App Settings > Secrets
+    2. Add: `OPENAI_API_KEY = "sk-your-key-here"`
+    3. Click Save and reboot the app
+    
+    **For Local Development:**
+    - Add `OPENAI_API_KEY=sk-your-key-here` to your .env file
+    """)
     st.stop()
 
 client = OpenAI(api_key=api_key)
