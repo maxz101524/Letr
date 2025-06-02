@@ -8,11 +8,22 @@ from io import BytesIO
 # --- Load API key ---
 load_dotenv()
 
-# Get API key from environment variable
-api_key = os.getenv("OPENAI_API_KEY")
+# Try to get API key from multiple sources
+api_key = None
+
+# First, try Streamlit secrets (for Streamlit Cloud deployment)
+try:
+    if hasattr(st, 'secrets') and 'OPENAI_API_KEY' in st.secrets:
+        api_key = st.secrets["OPENAI_API_KEY"]
+except:
+    pass
+
+# If not found in secrets, try environment variables (for local development)
+if not api_key:
+    api_key = os.getenv("OPENAI_API_KEY")
 
 if not api_key:
-    st.error("⚠️ OpenAI API key not found! Please set your OPENAI_API_KEY in your .env file or environment variables.")
+    st.error("⚠️ OpenAI API key not found! Please set your OPENAI_API_KEY in Streamlit secrets (for cloud deployment) or in your .env file (for local development).")
     st.stop()
 
 client = OpenAI(api_key=api_key)
