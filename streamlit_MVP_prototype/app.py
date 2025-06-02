@@ -387,7 +387,7 @@ with st.expander("✏️ Or write your own context"):
     manual_context = st.text_area(
         "Manual context about the recipient",
         placeholder="Write anything else you know about them...",
-        height=60
+        height=80
     )
     if manual_context:
         recipient_context = manual_context if not recipient_context else f"{recipient_context}. {manual_context}"
