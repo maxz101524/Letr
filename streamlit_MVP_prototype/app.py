@@ -11,19 +11,32 @@ load_dotenv()
 # Try to get API key from multiple sources
 api_key = None
 
+# Debug: Show what secrets are available
+st.write("🔍 **Debug Info:**")
+try:
+    secrets_keys = list(st.secrets.keys()) if st.secrets else []
+    st.write(f"Available secrets: {secrets_keys}")
+except Exception as e:
+    st.write(f"Secrets error: {e}")
+
 # First, try Streamlit secrets (for Streamlit Cloud deployment)
 try:
     api_key = st.secrets.get("OPENAI_API_KEY")
     if api_key:
         st.success("✅ API key loaded from Streamlit secrets")
+        st.write(f"Key starts with: {api_key[:10]}...")
+    else:
+        st.warning("⚠️ OPENAI_API_KEY not found in Streamlit secrets")
 except Exception as e:
-    st.warning(f"Could not load from Streamlit secrets: {str(e)}")
+    st.error(f"❌ Error accessing Streamlit secrets: {str(e)}")
 
 # If not found in secrets, try environment variables (for local development)
 if not api_key:
     api_key = os.getenv("OPENAI_API_KEY")
     if api_key:
         st.success("✅ API key loaded from environment variables")
+    else:
+        st.warning("⚠️ OPENAI_API_KEY not found in environment variables")
 
 if not api_key:
     st.error("⚠️ OpenAI API key not found! Please check your configuration:")
