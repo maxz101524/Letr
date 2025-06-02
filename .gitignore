@@ -1,10 +1,26 @@
-node_modules/
+# Virtual environments
+.venv/
+venv/
+ENV/
+__pypackages__/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Editor backup files
+*.swp
+*~
+
+# Environment and secrets
 .env
 .env.local
-.env.development.local
-.env.test.local
-.env.production.local
-.DS_Store
-build/
-dist/
-.vercel
+**/secrets.toml

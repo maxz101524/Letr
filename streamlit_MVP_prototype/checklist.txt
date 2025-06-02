@@ -1,3 +1,0 @@
-Upcoming features:
-1. customer "others" entries for goal and tone
-2. more detailed tone
