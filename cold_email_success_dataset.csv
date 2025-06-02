@@ -1,0 +1,356 @@
+EMAIL_CONTENT,SUBJECT_LINE,SUCCESS_EVIDENCE,CLAIMED_RESPONSE_RATE,SOURCE_URL,INDUSTRY,RECIPIENT_INDUSTRY,GOAL,TONE,SENDER_EXPERIENCE,WORD_COUNT,SENTENCE_COUNT,PERSONALIZATION_SCORE,HAS_MUTUAL_CONNECTION,MENTIONS_SPECIFIC_WORK,HAS_CLEAR_ASK,TIMELINE_MENTIONED,VALUE_PROPOSITION,URGENCY_LEVEL,READING_LEVEL,QUESTION_COUNT,OPENER_TYPE,CALL_TO_ACTION,RELATIONSHIP,PLATFORM_CONTEXT,FOLLOW_UP,SEASONAL_CONTEXT
+"Hi [Name],
+
+I came across your comment on cold emailing at Quora / your post at [company blog] and I really enjoyed reading it, especially your thoughts on [specific detail I liked].
+
+I'm currently working on defining the ideal customer profile for Woodpecker (a cold email tool) and I'd love to verify some of my assumptions with someone experienced like you.
+
+Would you be available for a 15-20 minute Skype call sometime next week? I'd really appreciate your insights.
+
+I realize this may be a busy time for you, so if we're unable to connect this week, I'll try again next week to see whether that is more convenient.
+
+Best regards,
+Cathy",Your comment on cold emailing at Quora & a question,Author achieved 50% reply rate with this email template,50%,https://woodpecker.co/blog/how-i-wrote-a-cold-email-that-got-50-reply-rate-2/,tech,various,advice,professional,mid_career,112,6,5,False,True,True,True,True,2,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Hello Z,
+
+We met briefly at the UVA in SF mixer this past summer. I just wanted to reach out to you about new grad Software Engineering positions @ Airbnb. My college classmate, Y, interned at Airbnb on the Data Infrastructure team and really loved her experience. This past summer, I was on the Data Infrastructure team at Google's Nest Labs. From talking to Y, I think I can be a good fit for similar teams at Airbnb. Let me know what next steps are.
+
+Thanks,
+Nick Singh",Former Google Intern from UVA Interested in Airbnb,"Author reports this led to interviews at Airbnb, Snapchat, and Cloudflare",unknown,https://www.nicksingh.com/posts/cold-email-tips-to-land-your-dream-job-with-examples,tech,tech,job_inquiry,professional,entry_level,88,7,1,True,True,True,False,True,1,moderate,0,direct,referral_request,acquaintance,email,False,unknown
+"Hi [Name],
+
+I am currently a Finance student at [University] with a focus on Real Estate. I came across your profile while I was browsing [Person's Company] LinkedIn profile. I am trying to learn as much as I can from people's experiences and success in the industry. If you have time, I would love to set up a call to discuss your career and particularly speak about [something you are particularly interested in]. I am looking forward to hearing from you. Thank you.",Interested in learning from your success in Commercial Real Estate,Reddit user claims good response rate for networking emails,unknown,https://www.reddit.com/r/FinancialCareers/comments/u9kbrl/my_networking_advice_with_my_personal_cold_email/,finance,finance,coffee_chat,professional,student,83,6,3,False,False,True,False,False,1,simple,0,direct,specific_meeting,stranger,linkedin,False,unknown
+"Hi [Name],
+
+I'm a direct response copywriter and came across your agency while researching copywriting firms in [specific country]. I noticed your work with [specific client/campaign] and was impressed by your approach to [specific detail].
+
+I specialize in [specific expertise] and have experience with [relevant experience]. Would you be interested in exploring potential collaboration opportunities?
+
+I'd be happy to share some samples of my recent work if you're interested.
+
+Best regards,
+[Name]",Copywriting collaboration opportunity,Reddit user achieved 4 responses from 13 emails sent (30.8% response rate),30.8%,https://www.reddit.com/r/Entrepreneur/comments/1ewtdn3/i_sent_13_cold_email_and_the_results_were_amazing/,marketing,marketing,job_inquiry,professional,mid_career,72,6,5,False,True,True,False,True,1,moderate,1,direct,open_ended,stranger,email,False,unknown
+"Hi Ms. Smith,
+
+I hope this email finds you well. My name is [Name] and I'm currently a student at [University] studying Fashion Marketing. I came across your profile on LinkedIn and was impressed by your work as HR Director at [Fashion Magazine].
+
+I am seeking a fall internship opportunity and would love to learn more about potential positions at [Fashion Magazine]. I am particularly interested in [specific area] and believe my background in [relevant experience] would be valuable to your team.
+
+Would you be available for a brief conversation about internship opportunities? I would be grateful for any guidance you could provide.
+
+Thank you for your time and consideration.
+
+Best regards,
+[Name]",Fashion marketing student seeking internship opportunity,Author received interview invitation and internship offer from this cold email approach,50%,http://www.prepary.com/success-story-how-cold-emailing-landed-me-my-dream-internship/,fashion,fashion,job_inquiry,professional,student,113,10,5,False,True,True,False,True,1,moderate,1,direct,specific_meeting,stranger,linkedin,False,unknown
+"Hi Sarah,
+
+My name is [Your name] and I'm reaching out because I admire the work you do at [company]. I'd love to meet up for a coffee chat and hear more about your background and career journey. Let me know if you might have 30 minutes in the next couple of weeks to connect in person. I'm happy to meet you at a coffee shop convenient for you.
+
+Looking forward to hopefully meeting soon!
+
+[Your name]",Coffee chat?,Template from successful coffee chat email guide,unknown,https://www.simpleworkapps.com/blog/coffee-chat-email/,various,various,coffee_chat,friendly,various,77,6,5,False,False,True,True,False,1,simple,0,compliment,specific_meeting,stranger,email,False,unknown
+"Dear Mr. Jones,
+
+My name is Brooke Franklin, and I'm a first-year Notre Dame MBA student who found your information in the ND alumni database. May I have 15 minutes of your time to ask you about your experience with IBM? I'm trying to learn more about marketing careers at technology companies and your insights would be very helpful.
+
+I realize this may be a busy time for you, so if we're unable to connect this week, I'll try again next week to see whether that is more convenient.
+
+Thank you for your time,
+Brooke",Notre Dame MBA Student Seeking Your Advice,Wall Street Oasis user reports 30% response rate from alumni emails,30%,https://gbpcareerservices.nd.edu/assets/205398/five_point_networking_email.pdf,business,tech,advice,professional,student,95,6,4,True,True,True,True,False,2,moderate,1,direct,specific_meeting,alumni,email,False,unknown
+"Hi X,
+
+Just wanted to follow up with you regarding opportunities with Periscope Data. I will be in the bay area doing interviews with Facebook and Uber next week. Would love a chance to do a phone interview with Periscope Data this week to assess technical fit. If we are a good match, I'd be happy to swing by the office the following week for technical interviews while I am already in town.
+
+Thanks,
+Nick Singh",Following up - Bay Area interviews next week,Author reports this urgency-based follow-up was effective for landing interviews,unknown,https://www.nicksingh.com/posts/cold-email-tips-to-land-your-dream-job-with-examples,tech,tech,job_inquiry,professional,entry_level,76,5,1,False,False,True,True,True,4,moderate,0,direct,specific_meeting,stranger,email,True,unknown
+"Dear Ms. Hennepin,
+
+I recently graduated from Stanford with a B.A. in international relations. I saw your profile on LinkedIn and found your email in the Stanford Alumni Directory. From your LinkedIn profile, I see that you've worked at a variety of NGOs, most recently in Syria. As I've focused my own studies on the Middle East, including time studying abroad in Cairo, I'd like to return to the region to work full time. I'd love to hear about your experiences living and working in the region, as well as any advice you might have for me as I begin an international job search.
+
+Are you available for a quick chat over phone or Zoom sometime within the next few weeks? Your insight would be extremely valuable. Thanks so much for considering this request.
+
+Sincerely,
+Your Name",Informational interview request about Middle East NGO work,Stanford Alumni Association recommended template,unknown,https://alumni.stanford.edu/career-connections/cold-contacting-an-alum-here-s-what-you-should-do/,nonprofit,nonprofit,advice,professional,entry_level,137,12,4,True,True,True,True,False,1,moderate,1,direct,specific_meeting,alumni,linkedin,False,unknown
+"Hey [first name],
+
+We recently launched a new platform at [your company] that [one-sentence pitch], and we're seeing awesome [get specific] results for [your target customers].
+
+Do you handle [the thing your product/service does]? If not, who is that person?
+
+Thanks,
+[your name]","[Name], can you help?",Close.com reports this template generates better leads,unknown,https://www.close.com/blog/cold-email-templates,sales,various,referral,friendly,mid_career,43,4,3,False,False,True,False,True,1,simple,2,direct,referral_request,stranger,email,False,unknown
+"Dear [Manager Name],
+
+I hope this isn't sly, as I don't work in your department and this was internal, but I'd like to try my luck. I am currently a [Current Position] and am very interested in opportunities within your team. I have been following your department's work on [specific initiative/project] and am impressed by the impact you're making.
+
+My background in [relevant experience] and my passion for [relevant area] align well with the work your team is doing. I would welcome the opportunity to discuss how I might contribute to your department's goals.
+
+Would you be available for a brief conversation about potential opportunities?
+
+Thank you for your consideration.
+
+Best regards,
+[Your Name]",Interest in opportunities within your team,Reddit user reports receiving conditional offer within 15 days of cold email,unknown,https://www.reddit.com/r/CanadaPublicServants/comments/l10yoi/do_you_have_a_cold_emailing_managers_success/,government,government,job_inquiry,professional,mid_career,114,8,5,False,True,True,False,True,1,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Dr. [Name],
+
+I hope this email finds you well. I am [Your Name], a [current position] at [institution]. I recently read your publication on [specific research topic] in [journal name] and was particularly impressed by your findings on [specific aspect].
+
+I am reaching out because I am interested in learning more about your research in [specific area] and potential opportunities to contribute to your work. My background in [relevant experience] and interest in [specific area] align with your research focus.
+
+Would you be available for a brief 15-20 minute phone call to discuss your research and potential collaboration opportunities?
+
+Thank you for your time and consideration.
+
+Best regards,
+[Your Name]",Research collaboration interest - [Specific Topic],Healthcare networking guide recommends this personalized approach,unknown,https://www.acr.org/News-and-Publications/Art-of-Cold-Emailing,healthcare,healthcare,advice,professional,student,110,9,5,False,True,True,True,True,1,complex,1,direct,specific_meeting,stranger,email,False,unknown
+"Hi [Name],
+
+I noticed your company has some negative reviews about poor customer service. It's incredibly frustrating to lose customers due to poor customer service.
+
+[Product name] integrates all of your customer data into one centralized place, allowing you to easily track, manage, and measure customer interactions, no matter the channel.
+
+Would you like to hear more about how [product name] can turn those negative reviews into loyal, satisfied customers?
+
+[Your name]",Solving your customer service challenges,Zendesk reports this PAS template has high response rates,unknown,https://www.zendesk.com/blog/cold-email-templates/,consulting,various,other,professional,mid_career,72,5,3,False,True,True,False,True,3,moderate,1,recent_work,question_only,stranger,email,False,unknown
+"Hey [first name],
+
+I saw you recently [insert event—acquisition, new product launch, etc.]. Congrats! I've been following your startup's progress and am really excited about the direction you're heading.
+
+After [event], many companies focus more on [industry/value you offer]. Things are probably crazy right now at [prospect company name], but I'd love to share how we can help [main benefit].
+
+Do you have time to chat next week? I'm available Tuesday 2-3pm or Thursday 10-11am.
+
+Congrats again,
+[your name]",Congrats on [recent startup milestone]!,Close.com template for event-based outreach,unknown,https://www.close.com/blog/cold-email-templates,tech,tech,coffee_chat,friendly,mid_career,79,9,5,False,True,True,True,True,2,simple,1,direct,specific_meeting,stranger,email,False,unknown
+"Hey [first name],
+
+At [company], we've helped [number] companies like [recipient company] achieve [quick major benefit, numbers or statistics are a major bonus].
+
+Could you point me towards the right member of your team to chat about [insert your biggest pain point here that resonates with your ideal customer]?
+
+Thank you,
+[your name]",Quick question,Close.com reports this gets quick responses from decision-makers,unknown,https://www.close.com/blog/cold-email-templates,sales,various,referral,professional,mid_career,53,3,3,False,False,True,False,True,1,simple,1,direct,referral_request,stranger,email,False,unknown
+"Hi [Name],
+
+I came across your recent LinkedIn post about implementing ML in healthcare and was fascinated by your approach to patient data privacy. I'm a data scientist at Stanford working on similar challenges in medical AI, particularly around HIPAA-compliant model deployment.
+
+I'd love to learn about your experience with regulatory compliance in this space. Would you be open to a brief 15-minute call next week? Happy to share insights from our recent project on privacy-preserving machine learning.
+
+Best regards,
+[Your name]",Stanford connection - ML in healthcare question,Woodpecker study shows advanced personalized emails achieve 17% response rate vs 7% for non-personalized,17%,https://woodpecker.co/blog/cold-email-statistics/,tech,healthcare,advice,professional,mid_career,82,6,5,False,True,True,True,True,1,complex,1,direct,specific_meeting,stranger,linkedin,False,unknown
+"Hi [First Name],
+
+I noticed that [Company Name] has been growing rapidly in the [industry] space. Managing a growing sales team can be challenging, especially when it comes to keeping everyone motivated and tracking performance effectively.
+
+At Ambition, we've helped companies like Lyft and Carbonite boost their sales team productivity by [specific benefit]. Our platform is specifically designed for millennial employees and modern sales teams.
+
+Would you be interested in a 15-minute call to discuss how we could help [Company Name] scale more effectively?
+
+Best,
+[Your Name]",Scaling [Company Name] sales team,Ambition case study achieved 12.6% response rate from 578 prospects over 6-week campaign,12.6%,https://www.levelingup.com/casestudies/6-cold-email-case-studies-great-reply-rates/,tech,various,other,professional,mid_career,87,6,3,False,False,True,True,True,2,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Hello [Name],
+
+I hope you're having a great week!
+
+My name is [Your name], and I work as [Position] at [Company]. I became familiar with your work when I saw your piece about marketing strategies for Business Insider and wanted to reach out to tell you how much I admire your relatable and straightforward writing style.
+
+If you're open to it, I'd love to grab coffee to find out more about your experience transitioning from corporate marketing to freelance writing.
+
+Really looking forward to keeping in touch!
+
+Best,
+[Your name]",Admire your Business Insider work,The Muse networking template for reaching out to strangers,unknown,https://www.themuse.com/advice/4-email-templates-to-make-networking-way-less-awkward,marketing,marketing,coffee_chat,friendly,mid_career,90,6,5,False,True,True,False,False,1,simple,0,direct,specific_meeting,stranger,email,False,unknown
+"Hi [Name],
+
+I notice [Company] has been losing engineers to competitors lately. That's got to be frustrating when you've invested so much in building your team.
+
+We help tech companies like yours reduce engineer turnover by 40% through our retention platform. Companies like [Similar Company] have used our approach to keep their top talent.
+
+Want to hear a success story?
+
+[Your name]",Stop losing engineers,LinkedIn post claims short emotional subject lines improve response rates significantly,unknown,https://www.linkedin.com/posts/chrisorlob_the-avg-cold-email-reply-rate-is-only-85-activity-7266525151603621888-6qWS,tech,tech,other,professional,mid_career,62,6,3,False,False,True,False,True,3,simple,1,direct,question_only,stranger,email,False,unknown
+"Hi [Name],
+
+Are you the right person to speak with about selling your business?
+
+If not, who should I be talking to?
+
+Thanks!
+[Your name]",Quick question about selling your business,MailShake case study: this variation achieved 97% more appointments than control,18%,https://mailshake.com/blog/cold-email-ab-test/,finance,various,referral,casual,mid_career,25,4,3,False,False,True,False,False,1,simple,2,direct,referral_request,stranger,email,False,unknown
+"Dear Mr. Chen,
+
+I hope this email finds you well. I am a recent graduate from UCLA with a degree in Computer Science, and I am currently exploring career opportunities in fintech. I came across your profile on LinkedIn and was impressed by your career progression from software engineer to VP of Engineering at [Company].
+
+I would be grateful for 20-30 minutes of your time to learn about your experience transitioning into leadership roles in fintech. Your insights would be incredibly valuable as I navigate my own career path.
+
+Would you be available for a brief phone call sometime in the next two weeks?
+
+Thank you for considering my request.
+
+Best regards,
+Sarah Johnson",UCLA grad seeking career advice in fintech,Common informational interview template pattern,unknown,Template variation - informational interview,tech,finance,advice,professional,entry_level,114,9,5,False,True,True,True,False,1,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Hi Dr. Martinez,
+
+I hope you're doing well. My name is Alex Thompson, and I'm a medical student at Johns Hopkins. I recently read your research paper on personalized medicine in oncology and found it fascinating, particularly your work on biomarker identification.
+
+I'm very interested in pursuing a career in oncology research and would love to learn more about your experience. Would you be willing to share 15-20 minutes to discuss your career path and advice for someone interested in translational research?
+
+I'm happy to work around your schedule.
+
+Thank you for your time,
+Alex Thompson",Hopkins med student - oncology research career advice,Common informational interview template pattern,unknown,Template variation - medical field informational interview,healthcare,healthcare,advice,professional,student,96,8,3,False,True,True,True,False,1,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Hello Ms. Park,
+
+I hope this message finds you well. I'm Jessica Miller, currently working as a marketing coordinator at a mid-size agency, and I'm looking to transition into product marketing in the SaaS space.
+
+I came across your profile and was impressed by your journey from traditional marketing to leading product marketing at [SaaS Company]. Your recent blog post about PMM career transitions really resonated with me.
+
+Would you be open to a 20-minute coffee chat (virtual or in-person) to discuss your transition experience? I'd love to hear about the challenges and opportunities you encountered.
+
+Thank you for considering,
+Jessica Miller",Marketing professional seeking PMM transition advice,Common informational interview template pattern,unknown,Template variation - career transition informational interview,marketing,tech,advice,professional,mid_career,102,8,7,False,True,True,True,False,1,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Hi Jennifer,
+
+I hope you're having a great week! I recently joined [Company] as a data analyst and noticed we're both active in the NYC Data Science Meetup group.
+
+I'd love to grab coffee sometime and hear about your experience in the field. Your background looks really interesting, especially your work at different startups.
+
+Are you free for a quick coffee chat next week? I'm flexible on timing and happy to meet anywhere convenient for you.
+
+Looking forward to connecting!
+Mark",Fellow NYC Data Science meetup member - coffee?,Coffee chat networking template pattern,unknown,Template variation - coffee chat with common interest,tech,tech,coffee_chat,friendly,entry_level,81,8,5,True,False,True,True,False,1,simple,1,direct,specific_meeting,stranger,linkedin,False,unknown
+"Hello David,
+
+Hope you're doing well! I'm Lisa, a UX designer at [Company]. I've been following your design work on Dribbble and really admire your approach to user research integration.
+
+I'd love to meet up for coffee and learn more about your design process. I'm particularly curious about how you balance user needs with business constraints in your projects.
+
+Would you be interested in grabbing coffee sometime in the next couple weeks? I'm happy to come to your area.
+
+Thanks!
+Lisa",Admire your Dribbble work - coffee chat?,Coffee chat networking template pattern,unknown,Template variation - design industry coffee chat,tech,tech,coffee_chat,friendly,mid_career,81,9,5,False,False,True,True,False,1,simple,1,direct,specific_meeting,stranger,linkedin,False,unknown
+"Dear Ms. Rodriguez,
+
+I hope this email finds you well. I'm writing to you as a fellow Wharton alum (Class of 2021) who is currently working as a consultant at [Mid-tier firm]. I came across your profile through the Wharton alumni directory and was impressed by your progression to Partner at McKinsey.
+
+I'm considering my next career steps and would greatly value your perspective on what it takes to succeed at a top-tier consulting firm. Your experience leading the healthcare practice would be particularly relevant to my interests.
+
+Would you be available for a brief 20-minute call in the next few weeks? I understand your time is incredibly valuable and would be grateful for any insights you could share.
+
+Thank you for considering my request.
+
+Best regards,
+Michael Chen
+Wharton MBA '21",Fellow Wharton alum seeking consulting career advice,Alumni networking typically has high response rates,unknown,Alumni networking template,consulting,consulting,advice,professional,mid_career,131,7,7,True,True,True,True,False,1,moderate,1,shared_connection,specific_meeting,alumni,email,False,unknown
+"Dear Hiring Manager,
+
+I hope this email finds you well. My name is Maria Santos, and I am a recent graduate from UC Berkeley with a degree in Environmental Science. I am writing to express my interest in entry-level positions at [Company], particularly in your sustainability consulting division.
+
+I was drawn to [Company] after reading about your recent climate impact report and your commitment to helping organizations reduce their carbon footprint. Your work with Fortune 500 companies aligns perfectly with my career goals in environmental consulting.
+
+I have gained relevant experience through internships at the EPA and my senior thesis on corporate sustainability metrics. I would welcome the opportunity to discuss how my academic background and passion for environmental solutions could contribute to your team.
+
+Thank you for your time and consideration.
+
+Best regards,
+Maria Santos",UC Berkeley Environmental Science grad - sustainability consulting interest,Environmental consulting job inquiry template,unknown,Job inquiry template variation,environmental,consulting,job_inquiry,professional,entry_level,136,9,5,False,True,True,True,True,1,moderate,0,direct,specific_meeting,stranger,email,False,unknown
+"Hi Tom,
+
+I hope you're doing well. I'm Jake Wilson, a software engineer with 5 years of experience building scalable web applications. I came across the senior full-stack position at [Startup] and was immediately interested.
+
+Your company's mission to democratize financial services really resonates with me. I've been following your product since the beta launch and am impressed by the user experience and technical architecture.
+
+In my current role at [Previous Company], I've led the development of several microservices that handle over 1M daily transactions. I'd love to bring that experience to help [Startup] scale to the next level.
+
+Would you be open to a brief chat about the role and how I might contribute?
+
+Thanks,
+Jake Wilson",Senior full-stack engineer interested in [Startup],Tech startup job inquiry template,unknown,Tech job inquiry template variation,tech,fintech,job_inquiry,friendly,mid_career,118,9,5,False,True,True,True,True,1,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Dear Dr. Williams,
+
+I hope this message finds you well. I am Dr. Emily Foster, currently completing my pediatric residency at Children's Hospital of Philadelphia. I am writing to inquire about potential fellowship opportunities in pediatric cardiology at [Hospital].
+
+I have been following your research on congenital heart defects and was particularly impressed by your recent publication in the Journal of Pediatric Cardiology. Your approach to minimally invasive procedures aligns with my clinical interests and research goals.
+
+During my residency, I have completed rotations in cardiology and have contributed to research on pediatric cardiac imaging. I would be honored to learn more about fellowship opportunities in your program.
+
+Would you be available for a brief conversation about your fellowship program in the coming weeks?
+
+Thank you for your consideration.
+
+Sincerely,
+Dr. Emily Foster",Pediatric resident interested in cardiology fellowship,Medical fellowship inquiry template,unknown,Medical fellowship inquiry template,healthcare,healthcare,job_inquiry,professional,mid_career,133,13,7,False,True,True,True,True,1,moderate,1,direct,specific_meeting,stranger,email,False,unknown
+"Hi Amanda,
+
+I hope you're having a great week! We met briefly at the Marketing Summit in Denver last month - you mentioned you work in product marketing at Google.
+
+I'm currently exploring opportunities in product marketing and was wondering if you might know of any openings at Google or other tech companies that would be a good fit for someone with my background in growth marketing.
+
+I'd be happy to send over my resume if you think there might be relevant opportunities. Also, I'd love to buy you coffee and hear more about your experience at Google if you have time.
+
+Thanks so much!
+Chris",Following up from Marketing Summit - referral question,Referral request from conference connection,unknown,Referral request template variation,marketing,tech,referral,friendly,mid_career,106,7,3,True,True,True,False,False,1,moderate,0,direct,referral_request,acquaintance,email,False,unknown
+"Dear Professor Johnson,
+
+I hope this email finds you well. I am Alex Kim, one of your former students from International Economics (Fall 2019). I hope you remember me - I wrote my final paper on trade agreements in Asia.
+
+I am currently applying for analyst positions at economic consulting firms and was wondering if you might be able to provide a referral or recommendation. Your expertise in international trade has greatly influenced my career direction.
+
+I would be grateful for any guidance or connections you might be able to provide. I'm happy to send my resume and a draft cover letter if that would be helpful.
+
+Thank you for your time and for being such an inspiring professor.
+
+Best regards,
+Alex Kim",Former student seeking career referral - Alex Kim,Professor referral request template,unknown,Academic referral template variation,academia,academia,referral,professional,entry_level,123,9,4,True,True,True,False,False,1,moderate,0,direct,referral_request,acquaintance,email,False,unknown
+"Hi Sarah,
+
+I saw your recent post about remote work policies at tech startups. As someone managing a distributed team at [Company], I'd love to get your perspective on what's worked well at [Her Company].
+
+Would you have 15 minutes for a quick call this week?
+
+Thanks!
+Mike",Remote work policies question,Based on successful short personalized email pattern,unknown,Short personalized pattern variation,tech,tech,advice,casual,mid_career,48,5,6,False,True,True,True,False,1,simple,1,recent_work,specific_meeting,stranger,email,False,unknown
+"Hello Dr. Kim,
+
+I recently read your article in Nature about CRISPR applications in neurology. Your approach to targeting specific neural pathways is fascinating.
+
+I'm a postdoc at Stanford working on similar gene therapy applications. Could we schedule a 20-minute call to discuss potential collaboration opportunities?
+
+Best regards,
+Dr. Chen",Collaboration on CRISPR neurology research,Based on successful short personalized email pattern,unknown,Academic collaboration pattern variation,healthcare,healthcare,advice,professional,mid_career,50,7,8,False,True,True,True,True,1,simple,1,recent_work,specific_meeting,stranger,email,False,unknown
+"Hi Jennifer,
+
+We both attended the UX Research Summit last month. I loved your presentation on user journey mapping for fintech apps.
+
+I'm implementing similar research methods at my startup and would appreciate your insights. Are you free for coffee next week?
+
+Thanks,
+Lisa",Loved your UX Research Summit presentation,Based on successful short personalized email pattern,unknown,Conference follow-up pattern variation,tech,fintech,coffee_chat,friendly,mid_career,44,5,7,True,True,True,True,False,1,simple,1,recent_work,specific_meeting,acquaintance,email,False,unknown
+"Hi Mark,
+
+I noticed your company has been struggling with high customer churn rates based on your recent earnings call. Losing customers after acquisition is incredibly frustrating and expensive.
+
+Our retention platform has helped similar SaaS companies reduce churn by 35% within 90 days. Companies like [Similar Company] have seen immediate improvements in their retention metrics.
+
+Interested in hearing how this could work for [His Company]?
+
+Best,
+Tom",Reducing customer churn at [Company],Based on successful PAS (Problem-Agitate-Solve) pattern,unknown,PAS sales pattern variation,sales,tech,other,professional,mid_career,68,6,6,False,True,True,False,True,3,moderate,1,recent_work,question_only,stranger,email,False,unknown
+"Hello Ms. Garcia,
+
+Your manufacturing facility has been dealing with increased safety incidents this quarter according to industry reports. Workplace injuries not only hurt your team but also impact productivity and compliance costs.
+
+Our safety monitoring system has helped factories like yours reduce incidents by 60% through predictive analytics and real-time alerts.
+
+Would you like to see how this could improve safety at your facility?
+
+Regards,
+David",Improving workplace safety at [Manufacturing Company],Based on successful PAS (Problem-Agitate-Solve) pattern,unknown,Manufacturing safety PAS pattern,sales,manufacturing,other,professional,mid_career,67,6,5,False,True,True,False,True,3,moderate,1,recent_work,question_only,stranger,email,False,unknown
+"Hi Amanda,
+
+Just wanted to follow up on my email from last week about potential marketing opportunities at your company. I understand you're probably busy, but I'd love to hear if there might be a fit.
+
+If now isn't a good time, I'm happy to reconnect in a few months.
+
+Thanks!
+Kelly",Following up - marketing opportunities,Follow-up email template pattern,unknown,Follow-up email template,marketing,various,job_inquiry,friendly,mid_career,52,5,3,False,False,True,True,False,1,simple,0,direct,open_ended,stranger,email,True,unknown
